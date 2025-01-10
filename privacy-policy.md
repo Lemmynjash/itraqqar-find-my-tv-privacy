@@ -20,7 +20,7 @@ Our app does not collect or store any personal information. Instead, it only col
 This information is used strictly to deliver and enhance the app's tracking features.  
 
 ### Location Data  
-To ensure the accuracy of tracking, the app may access your device’s location. This data is used exclusively within the scope of the app’s functionality and is not shared with third parties beyond what is necessary to provide the service.  
+The i-Traqqar: Find My TV app collects background location data to provide real-time tracking of your TV, even when the app is closed or not in use. This data is used solely to enable tracking and enhance device security. We do not sell or share this data with third parties. All data is securely transmitted and stored using encryption.  
 
 ### Cookies  
 The app does not explicitly use cookies. However, third-party tools or libraries integrated into the app may use cookies for improving their services. You can choose to accept or decline these cookies through your device settings.  
